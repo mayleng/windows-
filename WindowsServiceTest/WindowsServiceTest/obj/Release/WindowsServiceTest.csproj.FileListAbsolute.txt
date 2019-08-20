@@ -1,0 +1,12 @@
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\Service1.cs
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\Service1.Designer.cs
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\WindowsServiceTest.exe.config
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\WindowsServiceTest.exe
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\WindowsServiceTest.pdb
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\log4net.dll
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\bin\Release\log4net.xml
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\obj\Release\WindowsServiceTest.ProjectInstaller.resources
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\obj\Release\WindowsServiceTest.csproj.GenerateResource.Cache
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\obj\Release\WindowsServiceTest.csproj.CoreCompileInputs.cache
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\obj\Release\WindowsServiceTest.exe
+D:\May\webapi\SystemServer\WindowsServiceTest\WindowsServiceTest\obj\Release\WindowsServiceTest.pdb

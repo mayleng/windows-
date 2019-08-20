@@ -1,0 +1,2 @@
+这是两个Windows 服务 程序
+框架是netframwork
